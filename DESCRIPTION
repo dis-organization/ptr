@@ -1,0 +1,11 @@
+Package: ptr
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: c(person("Michael D.","Sumner", role = c("aut", "cre"), email = "mdsumner@gmail.com"), 
+            person("Jan","Jansen", role = c("ctb"), email = "jan.jansen@utas.edu.au"), 
+            person("Mao","Mori", role = c("ctb"), email = "mmori1@postoffice.utas.edu.au"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.3.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
